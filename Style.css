@@ -73,8 +73,8 @@ body * {
   margin: 4px auto;
 }
 #switch button {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
   background: white var(--switch-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
