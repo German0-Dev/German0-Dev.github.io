@@ -93,7 +93,7 @@ body * {
 }
 
 #switch button :hover {
-  outline: 8px solid var(--highlight-color);
+  outline: 10px solid var(--highlight-color);
 }
 
 #switch span {
@@ -152,7 +152,6 @@ ul li a:hover {
   gap: 10px;
 
   padding: 24px 0;
-
   font-size: 30px;
 }
 
