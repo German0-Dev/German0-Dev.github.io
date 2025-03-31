@@ -26,7 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
-  height: 100vh;
+  height: 120vh;
 }
 
 body * {
@@ -73,8 +73,8 @@ body * {
   margin: 4px auto;
 }
 #switch button {
-  width: 30px;
-  height: 30px;
+  width: 32px;
+  height: 32px;
   background: white var(--switch-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
@@ -93,7 +93,7 @@ body * {
 }
 
 #switch button :hover {
-  outline: 15px solid var(--highlight-color);
+  outline: 16px solid var(--highlight-color);
 }
 
 #switch span {
@@ -170,7 +170,7 @@ ul li a:hover {
 }
 
 footer {
-  padding: 24px 0;
+  padding: 64px 0;
   text-align: center;
   font-size: 16px;
 }
